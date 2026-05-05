@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Álcool ou Gasolina</string>
+    <string name="app_preferences_name">AlcoolOuGasolinaPrefs</string>
+    <string name="insert_gas_station">Adicione postos na sua lista</string>
+    <string name="list_gas_station_title">Lista de Postos</string>
+    <string name="list_gas_station_without_name">Sem nome</string>
+    <string name="edit_gas_station_button">Editar</string>
+    <string name="delete_gas_station_button">Deletar</string>
+    <string name="gas_station_not_found">Posto não encontrado</string>
+    <string name="calculate_only_button">Calcular</string>
+    <string name="save_station_button">Salvar Posto</string>
+    <string name="invalid_values_error">Insira valores válidos!</string>
+    <string name="view_on_map">Ver no mapa</string>
+    <string name="currency_symbol">R$</string>
+    <string name="ethanol_price_label">Preço do Álcool (R$)</string>
+    <string name="gas_price_label">Preço da Gasolina (R$)</string>
+    <string name="station_name_label">Nome do Posto (Opcional)</string>
+    <string name="efficiency_percentage_label">Eficiência > 70%</string>
+    <string name="fuel_icon_description" translatable="false">Ícone de combustível</string>
+    <string name="ethanol_better">O Álcool é mais vantajoso</string>
+    <string name="gasoline_better">A Gasolina é mais vantajosa</string>
+    <string name="result">Resultado</string>
+    <string name="save_switch_state">Salvar preferência de combustível</string>
+    <string name="date_label">Data da informação:</string>
+</resources>

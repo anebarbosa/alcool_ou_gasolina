@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Alcohol or Gasoline</string>
+    <string name="app_preferences_name">AlcoholOrGasolinePrefs</string>
+    <string name="insert_gas_station">Add stations to your list</string>
+    <string name="list_gas_station_title">Gas Station List</string>
+    <string name="list_gas_station_without_name">Unnamed station</string>
+    <string name="edit_gas_station_button">Edit</string>
+    <string name="delete_gas_station_button">Delete</string>
+    <string name="gas_station_not_found">Gas station not found</string>
+    <string name="calculate_only_button">Calculate</string>
+    <string name="save_station_button">Save Station</string>
+    <string name="invalid_values_error">Insert valid values!</string>
+    <string name="view_on_map">View on map</string>
+    <string name="currency_symbol">$</string>
+    <string name="ethanol_price_label">Alcohol Price ($)</string>
+    <string name="gas_price_label">Gasoline Price ($)</string>
+    <string name="station_name_label">Station Name (Optional)</string>
+    <string name="efficiency_percentage_label">Efficiency > 70%</string>
+    <string name="ethanol_better">Alcohol is more cost-effective</string>
+    <string name="gasoline_better">Gasoline is more cost-effective</string>
+    <string name="result">Result</string>
+    <string name="save_switch_state">Save fuel preference</string>
+    <string name="date_label">Info date:</string>
+</resources>
